@@ -1,0 +1,30 @@
+{
+  "name": "momilove52",
+  "version": "1.0.0",
+  "description": "Healthcare tracking and caregiver support system",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src/",
+    "test": "echo \"No tests specified yet\" && exit 0"
+  },
+  "keywords": [
+    "healthcare",
+    "caregiving",
+    "patient-tracking",
+    "medical"
+  ],
+  "author": "Momilove52 Team",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.33.0",
+    "playwright": "^1.54.2",
+    "vite": "^7.1.1"
+  }
+}
